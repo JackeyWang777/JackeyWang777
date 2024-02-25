@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+
+ChatGPT
+I am currently studying at Beijing Jiaotong University and am a doctoral student focusing on the interpretability of deep learning.
 
 <!--
 **JackeyWang777/JackeyWang777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
